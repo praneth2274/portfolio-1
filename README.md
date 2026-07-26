@@ -24,7 +24,7 @@ Simply open `index.html` in any web browser:
 
 ```bash
 # Clone the repository
-git clone <your-github-repo-url>
+git clone https://github.com/praneth2274/portfolio-1.git
 
 # Open index.html in default browser
 start index.html
